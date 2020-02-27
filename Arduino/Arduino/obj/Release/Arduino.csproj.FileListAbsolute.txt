@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Arduino\Arduino\bin\Release\Arduino.exe.config
+C:\Users\User\source\repos\Arduino\Arduino\bin\Release\Arduino.exe
+C:\Users\User\source\repos\Arduino\Arduino\bin\Release\Arduino.pdb
+C:\Users\User\source\repos\Arduino\Arduino\obj\Release\Arduino.Properties.Resources.resources
+C:\Users\User\source\repos\Arduino\Arduino\obj\Release\Arduino.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Arduino\Arduino\obj\Release\Arduino.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Arduino\Arduino\obj\Release\Arduino.exe
+C:\Users\User\source\repos\Arduino\Arduino\obj\Release\Arduino.pdb
+C:\Users\User\source\repos\Arduino\Arduino\obj\Release\Arduino.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Arduino\Arduino\obj\Release\Arduino.kartoshka.resources
